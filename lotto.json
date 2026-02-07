@@ -18573,5 +18573,21 @@
     "firstWinamnt": 1371910466,
     "returnValue": "success",
     "totSellamnt": 30182030252
-  }  
+  },
+  {
+    "bnusNo": 31,
+    "drwNo": 1210,
+    "drwNoDate": "2026-02-07",
+    "drwtNo1": 1,
+    "drwtNo2": 7,
+    "drwtNo3": 9,
+    "drwtNo4": 17,
+    "drwtNo5": 27,
+    "drwtNo6": 38,
+    "firstAccumamnt": 0,
+    "firstPrzwnerCo": 0,
+    "firstWinamnt": 0,
+    "returnValue": "success",
+    "totSellamnt": 0
+  }   
 ]
